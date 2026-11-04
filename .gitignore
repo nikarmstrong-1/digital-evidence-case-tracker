@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Digital Evidence Case Tracker local database
+case_tracker.db
+case_tracker.db-journal
+case_tracker.db-shm
+case_tracker.db-wal
